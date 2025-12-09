@@ -1,18 +1,6 @@
 {
   "movies": [
     {
-      "id": "1",
-      "title": "Inception",
-      "genre": "Sci-Fi",
-      "year": 2010
-    },
-    {
-      "id": "2",
-      "title": "Pulp Fiction",
-      "genre": "Crime",
-      "year": 1994
-    },
-    {
       "id": "3",
       "title": "Dune",
       "genre": "Sci-Fi",
@@ -23,6 +11,12 @@
       "title": "Seven",
       "genre": "Crime/Horror",
       "year": 1995
+    },
+    {
+      "id": "3ac9",
+      "title": "How I Met Your Mother",
+      "genre": "Sitcom",
+      "year": 2005
     }
   ]
 }
